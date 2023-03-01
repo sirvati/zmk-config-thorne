@@ -1,6 +1,6 @@
 file_format: "1"
 id: thorne
-name: thorne
+name: Thorne
 type: shield
 url: https://github.com/sirvati/zmk-config-thorne 
 requires: [pro_micro]
