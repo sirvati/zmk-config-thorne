@@ -1,5 +1,5 @@
-config SHIELD_THORNE_LEFT
-   def_bool $(sheilds_list_contains, thorne_left nice_view_adapter nice_view)
+config SHIELD_CORNE_LEFT
+   def_bool $(sheilds_list_contains, corne_left nice_view_adapter nice_view)
 
-config SHIELD_THORNE_RIGHT
-   def_bool $(sheilds_list_contains, thorne_right nice_view_adapter nice_view)
+config SHIELD_CORNE_RIGHT
+   def_bool $(sheilds_list_contains, corne_right nice_view_adapter nice_view)
